@@ -1,1 +1,1 @@
-docker run -it lemans66/debian-buster:0
+docker run -it lemans66/debian-buster
